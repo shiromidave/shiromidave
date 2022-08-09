@@ -1,7 +1,8 @@
 <div id="header">
 <img align="right" src="https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" data-canonical-src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"width=300px style="display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="center">
-  Hey,I'm Shiromi!!<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=30px> 
+  Hey,I'm Shiromi!!<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=30px> <br>
+   <img align="center" src="https://komarev.com/ghpvc/?username=shiromidave&style=flat-square&color=blue" alt=""/>
 </h3>
 <br><br>
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=30px> 
@@ -24,7 +25,7 @@ A little about me:<br><br>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=shiromidave&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 
@@ -57,7 +58,7 @@ A little about me:<br><br>
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats : 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiromidave&theme=github-dark-blue)](https://git.io/streak-stats)<br><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiromidave&show_icons=true&theme=radical&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiromidave&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
