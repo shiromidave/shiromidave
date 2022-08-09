@@ -1,15 +1,15 @@
 <div id="header">
-<img align="right" src="https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" data-canonical-src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" style="max-width: 90%; display: inline-block;" data-target="animated-image.originalImage">
-<h3>
+<img align="right" src="https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966" data-canonical-src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"width=300px style="display: inline-block;" data-target="animated-image.originalImage">
+<h3 align="center">
   Hey,I'm Shiromi!!<img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=30px> 
 </h3>
-
+<br><br>
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=30px> 
-A little about Me:<br>
-🔭 I’m working as a Salesforce Developer at Capgemini.<br>
-🌱 I’m currently learning about Cloud Technologies specifically AWS.<img src="https://cdn-icons-png.flaticon.com/512/252/252035.png" width=20px><br>
-📫 How to reach me: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width=15px>     <a href = "mailto: shiromidave26@gmail.com">Contact Me!</a><br>   
-⚡ In my free time, I solve problems on GeeksforGeeks,LeetCode and read tech articles.<br>
+A little about me:<br><br>
+🔭 I’m working as a Salesforce Developer at Capgemini.<br><br>
+🌱 I’m currently learning about Cloud Technologies specifically AWS.<img src="https://cdn-icons-png.flaticon.com/512/252/252035.png" width=20px><br><br>
+📫 How to reach me: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width=15px>     <a href = "mailto: shiromidave26@gmail.com">Contact Me!</a><br><br>   
+⚡ In my free time, I solve problems on GeeksforGeeks,LeetCode and read tech articles.<br><br>
 
 <h3 style="color:blue">My other profiles:</h3>
  <div id="badges">
