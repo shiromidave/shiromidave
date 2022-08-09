@@ -61,9 +61,9 @@ A little about me:<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiromidave&theme=github-dark-blue)](https://git.io/streak-stats)<br><br>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shiromidave&show_icons=true&theme=radical&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiromidave&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br><br><br>
+<br><br>
 <hr>
 <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width=50px>
-I love connecting with different people so if you want to say hi, I'll be happy to connect! :)
+I love connecting with different people so if you want to say hi, I'll be happy to connect on any of the above platform! :)
 
 
